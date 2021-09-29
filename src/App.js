@@ -9,7 +9,9 @@ const emojiDictionary = {
   "😥": "Sad but Relieved Face",
   "💖": "Sparkling Heart",
   "😑": "Annoyance",
-  "😌": "Relieved Face"
+  "😌": "Relieved Face",
+  "🙂": "Slightly Smiling Face",
+  "🤩": "Star-Struck"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
